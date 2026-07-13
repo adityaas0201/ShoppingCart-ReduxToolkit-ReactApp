@@ -2,14 +2,10 @@
 
 #### Install Template
 
-```sh
-npx create-react-app my-app --template redux
-```
-
-- @latest
+### Create a Vite React App
 
 ```sh
-npx create-react-app@latest my-app --template redux
+npm create vite@latest my-app -- --template react
 ```
 
 #### Existing App
