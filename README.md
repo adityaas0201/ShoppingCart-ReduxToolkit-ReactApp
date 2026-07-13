@@ -2,7 +2,7 @@
 
 #### Install Template
 
-### Create a Vite React App
+#### Create a Vite React App
 
 ```sh
 npm create vite@latest my-app -- --template react
